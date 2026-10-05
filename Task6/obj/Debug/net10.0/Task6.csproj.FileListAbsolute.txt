@@ -1,0 +1,14 @@
+A:\ApplicationDevelopment\workshop2\Task6\bin\Debug\net10.0\Task6.exe
+A:\ApplicationDevelopment\workshop2\Task6\bin\Debug\net10.0\Task6.deps.json
+A:\ApplicationDevelopment\workshop2\Task6\bin\Debug\net10.0\Task6.runtimeconfig.json
+A:\ApplicationDevelopment\workshop2\Task6\bin\Debug\net10.0\Task6.dll
+A:\ApplicationDevelopment\workshop2\Task6\bin\Debug\net10.0\Task6.pdb
+A:\ApplicationDevelopment\workshop2\Task6\obj\Debug\net10.0\Task6.GeneratedMSBuildEditorConfig.editorconfig
+A:\ApplicationDevelopment\workshop2\Task6\obj\Debug\net10.0\Task6.AssemblyInfoInputs.cache
+A:\ApplicationDevelopment\workshop2\Task6\obj\Debug\net10.0\Task6.AssemblyInfo.cs
+A:\ApplicationDevelopment\workshop2\Task6\obj\Debug\net10.0\Task6.csproj.CoreCompileInputs.cache
+A:\ApplicationDevelopment\workshop2\Task6\obj\Debug\net10.0\Task6.dll
+A:\ApplicationDevelopment\workshop2\Task6\obj\Debug\net10.0\refint\Task6.dll
+A:\ApplicationDevelopment\workshop2\Task6\obj\Debug\net10.0\Task6.pdb
+A:\ApplicationDevelopment\workshop2\Task6\obj\Debug\net10.0\Task6.genruntimeconfig.cache
+A:\ApplicationDevelopment\workshop2\Task6\obj\Debug\net10.0\ref\Task6.dll

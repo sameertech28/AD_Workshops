@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/0oa4/7rmLs=",
+  "success": true,
+  "projectFilePath": "A:\\ApplicationDevelopment\\workshop2\\Task 5\\Task 5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.netcore.app.ref\\10.0.12\\microsoft.netcore.app.ref.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
